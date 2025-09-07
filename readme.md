@@ -1,6 +1,4 @@
-Of course. Here is the complete content for the `README.md` file in a raw text block for easy copying.
 
-````markdown
 # Crew Scheduling Optimization for Airlines
 
 This project provides a Python-based solution for the airline crew scheduling problem. It utilizes a Constraint Programming (CP) model to assign crew members (Pilots, Co-pilots, Load Masters, Flight Engineers) to a given set of flights. The primary objective is to create a valid and feasible schedule while minimizing the total number of crew members utilized.
@@ -149,5 +147,3 @@ The `cp for crewscheduling.xlsx` file must contain the following sheets with the
 
 <!-- end list -->
 
-```
-```
